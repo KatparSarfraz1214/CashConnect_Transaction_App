@@ -1,7 +1,7 @@
 # CashConnect – A Python Transaction Application 
 CashConnect is a beginner-friendly yet professionally structured desktop transaction application built using Python and Tkinter. It simulates a simple digital banking system where users can securely manage accounts, perform transactions, and view transaction history.
 
-Project Overview
+# Project Overview
 CashConnect allows users to:
 - Create accounts with username + secure 4-digit PIN
 - Log in securely using PIN authentication
@@ -12,7 +12,7 @@ CashConnect allows users to:
 - View full transaction history
 - View recent transactions on dashboard
 
-Key Features
+# Key Features
 1. Security
 - PIN-based authentication (4-digit PIN per user)
 - Login validation before accessing dashboard
