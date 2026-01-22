@@ -33,7 +33,7 @@ CashConnect allows users to:
 - Uses lists for transaction logs
 - No external database (lightweight & simple)
 
-4. Technologies Used
+# Technologies Used
 
 Python 3.x as core programming language
 Tkinter	framework for GUI development
