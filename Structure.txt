@@ -1,0 +1,17 @@
+1. Project Structure 
+
+CashConnect/
+│
+├── cashconnect.py        # Main application file
+├── README.md             # Project documentation
+└── LICENSE               # (Optional) Open-source license
+
+2. Clone the Repository
+git clone https://github.com/your-username/CashConnect.git
+
+3. Navigate to Project Folder
+cd CashConnect
+
+4. Run the Application
+python cashconnect.py
+Note: Ensure Python 3.x is installed on your system.

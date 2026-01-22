@@ -1,0 +1,10 @@
+Example Workflow
+1. Launch the application
+2. Create a new account (Username + PIN + Initial Balance)
+3. Login using username and PIN
+4. Access full-screen dashboard
+5. Perform transactions:
+6. Deposit money
+7. Withdraw money
+8. Transfer to another user
+9. View transaction history
